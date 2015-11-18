@@ -158,6 +158,9 @@ h4 {
 .octicon-file-pdf:before {
   content: '\f014'
 }
+.octicon-file-media:before {
+  content: '\f012'
+}
 .octicon-globe:before {
   content: '\f0b6'
 }
