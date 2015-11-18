@@ -4,6 +4,9 @@ This repository contains the HTML page included in USB keys distributed during t
 
 **For legal purpose**, this repository doesn't contains any PDF file from papers.
 
+## Preview
+<img src="http://i.imgur.com/I7uTysf.png" alt="Proceedings of AFIG 2015 conference" />
+
 ## Links
 - [AFIG 2015 website](http://liris.cnrs.fr/afig2015/)
 
